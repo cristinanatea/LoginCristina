@@ -1,0 +1,24 @@
+html, body, .container-fluid {
+	height:100%;
+	background-color: #68463c;
+}
+
+.row {
+	height:100%;
+	background-color: #c2b1a7;
+	max-width: 90%;
+}
+
+.leftside {
+        background-image: url('original.jpg');
+        background-size: 100% 100%;"
+}
+
+.form-control {
+	background-color: #ad7c6d;
+	border-color: #000;
+}
+
+.btn {
+	background-color: #c2b1a7;
+}
