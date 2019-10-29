@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bootstrap Example</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet"
+	href="https://use.fontawesome.com/releases.v5.0.8/css/solid.css">
+<script src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+<link rel="stylesheet" href="criss.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+</head>
+<body>
+	<section class="container-fluid ">
+		<section class="row ">
+			<div class="col-md-8">
+				<img src='original.jpg' class="picture">
+			</div>
+			<div class=" col-md-6">
+				<div class="cutie">
+					<form>
+						<div class="form-group">
+							<div class="cutie2">
+								<img src="woman.jpg" class="poza">
+							</div>
+							<label for="email">Email:</label> <input type="email"
+								class="form-control" id="email" placeholder="Enter email"
+								name="email"> <small id="email"
+								class="form-text text-mited"></small> <label for="pwd">Password:</label>
+							<input type="password" class="form-control" id="pwd"
+								placeholder="Enter password">
+							<div class="form-check">
+								<label><input type="checkbox" name="Remember">Remember
+									me</label>
+							</div>
+							<button type="submit" class="btn">Submit</button>
+						</div>
+						</div>
+				</div>
+			
+			</form>
+			</div>
+		</section>
+	</section>
+</body>
+</html>
+
