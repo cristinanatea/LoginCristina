@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\cnatea\eclipse-workspacer\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4008163440.index
-\LoginServlet\src
